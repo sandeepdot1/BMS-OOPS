@@ -1,0 +1,23 @@
+******Bank User******
+Name: Sandeep
+Age: 22
+Account Number: 1
+Balance: 0
+
+Loan given for amount: 100000
+Deposit Amount: 5000
+
+******Bank User******
+Name: Sandeep
+Age: 22
+Account Number: 1
+Balance: 103000
+
+Account Number:1 Deleted
+
+******Bank User******
+Name: Sandeep
+Age: 22
+
+Process finished with exit code 0
+
